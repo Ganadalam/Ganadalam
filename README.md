@@ -22,15 +22,19 @@ Deployment: Vercel, Render, Netlify
 1. 기초 다지기
    - JSX, Props, State 개념 정리
    - useState / useEffect 실습
+     
 2. 리렌더링 최적화
    - memo, useCallback, useMemo 비교
    - 실제 렌더링 횟수 측정 실험
+     
 3. 상태관리 도구 적용
    - Context API vs Recoil 비교
    - 전역 상태 관리 실습
+     
 4. UI/UX 개선
    - Framer Motion 애니메이션 적용
    - 반응형 디자인 구성
+   - 
 5. 실전 프로젝트
    - Twitter 클론 제작 (Firebase 기반)
    - 로그인, 게시글 CRUD, 실시간 데이터 반영
@@ -52,10 +56,11 @@ React를 단순히 "UI 라이브러리"로 보기보다,
 - 코드 구조화 경험: 작은 단위의 책임 분리 → 유지보수성 향상  
 - 협업 대비: Git commit message convention / PR 리뷰 기반 습관화  
 
-<!-- 📌 현재는 Next.js, TypeScript, Node.js를 활용한 전반적인 서비스 구조로 확장 중입니다. --!>
+<!-- 📌 현재는 Next.js, TypeScript, Node.js를 활용한 전반적인 서비스 구조로 확장 중입니다. -->
 
 
 추후 계획 
+
 - 학습 내용 리팩토링, 정리
 - Next.js로 SSR 구조 학습 및 SEO 반영
 - Node.js + Express 백엔드 직접 구현
