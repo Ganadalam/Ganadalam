@@ -60,6 +60,7 @@ React를 단순히 "UI 라이브러리"로 보기보다,
 기술 회고 및 학습 정리
 
 tistoty: https://lunar-halo.tistory.com/
+
 notion: https://www.notion.so/23b0bd6432ab8095b1f6fbfd963d8300
 <!-- 📌 현재는 Next.js, TypeScript, Node.js를 활용한 전반적인 서비스 구조로 확장 중입니다. -->
 
