@@ -57,6 +57,10 @@ React를 단순히 "UI 라이브러리"로 보기보다,
 - 코드 구조화 경험: 작은 단위의 책임 분리 → 유지보수성 향상  
 - 협업 대비: Git commit message convention / PR 리뷰 기반 습관화  
 
+기술 회고 및 학습 정리
+
+tistoty: https://lunar-halo.tistory.com/
+
 <!-- 📌 현재는 Next.js, TypeScript, Node.js를 활용한 전반적인 서비스 구조로 확장 중입니다. -->
 
 
