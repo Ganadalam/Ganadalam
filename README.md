@@ -2,8 +2,6 @@
 
 단순히 코드를 작성하는 것을 넘어, 사용자 경험과 서비스 구조 전체를 이해하는 개발자를 목표로 하고 있습니다.
 
-컴퓨터공학 전공, 3개월 인턴 경험이 있고, 이후에는 혼자 개발 중입니다. 🤓
-
 <!--🧠 Tech Stack
 
 Frontend: React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Recoil  
