@@ -33,7 +33,7 @@ Deployment: Vercel, Render, Netlify
 4. UI/UX 개선
    - Framer Motion 애니메이션 적용
    - 반응형 디자인 구성
-   - 
+     
 5. 실전 프로젝트
    - Twitter 클론 제작 (Firebase 기반)
    - 로그인, 게시글 CRUD, 실시간 데이터 반영
